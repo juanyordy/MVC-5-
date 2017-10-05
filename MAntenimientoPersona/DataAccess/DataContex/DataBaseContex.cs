@@ -1,12 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace DataAccess.DataContex
 {
-    class DataBaseContex
+    public class DataBaseContex: DbContext
     {
+        //DataBaseContex() base("Conexion");
+
+        public DBSet 
     }
 }
