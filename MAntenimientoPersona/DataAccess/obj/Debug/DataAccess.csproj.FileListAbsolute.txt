@@ -1,0 +1,4 @@
+A:\SVS\MVC-5-\MAntenimientoPersona\DataAccess\bin\Debug\DataAccess.dll
+A:\SVS\MVC-5-\MAntenimientoPersona\DataAccess\bin\Debug\DataAccess.pdb
+A:\SVS\MVC-5-\MAntenimientoPersona\DataAccess\obj\Debug\DataAccess.dll
+A:\SVS\MVC-5-\MAntenimientoPersona\DataAccess\obj\Debug\DataAccess.pdb

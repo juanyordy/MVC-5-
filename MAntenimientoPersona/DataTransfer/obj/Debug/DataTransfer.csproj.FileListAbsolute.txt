@@ -1,0 +1,4 @@
+A:\SVS\MVC-5-\MAntenimientoPersona\DataTransfer\bin\Debug\DataTransfer.dll
+A:\SVS\MVC-5-\MAntenimientoPersona\DataTransfer\bin\Debug\DataTransfer.pdb
+A:\SVS\MVC-5-\MAntenimientoPersona\DataTransfer\obj\Debug\DataTransfer.dll
+A:\SVS\MVC-5-\MAntenimientoPersona\DataTransfer\obj\Debug\DataTransfer.pdb
